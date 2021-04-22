@@ -1,0 +1,55 @@
+#cabecera{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color: blue;
+    position: relative;
+    top: 20px;
+    left: 400px;
+}
+.deptolinks{
+    color: white;
+    background: green;
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0 auto 0;
+}
+.primerafoto{
+    display: inline;
+    float: left;
+    padding: 10px;
+    position: absolute;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.segundafoto{
+    float: right;
+    padding: 10px;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tercerafoto{
+    display: inline-block;
+    position: relative;
+    left: 450px;
+    bottom: 20px;
+    padding: 30px;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.parrafo{
+    border: 2px solid blue;
+    width: 300px;
+    color: green;
+    position: relative;
+    left: 450px;
+    margin: 0 auto 0;
+}
+.deport{
+    color:chocolate;
+    background-color: black;
+    display: inline;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px 100px 0;
+}
+
